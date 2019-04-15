@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sesli Ajanda</string>
+    <string name="notlar">Notlar</string>
+    <string name="sadece_burada_dur_ve">sadece burada dur ve</string>
+    <string name="konusarak_not_alabilirsin">Konusarak not alabilirsin</string>
+    <string name="konu">Konus</string>
+    <string name="sil">Sil</string>
+    <string name="payla">Paylaş</string>
+    <string name="EXIST">DROP TABLE IF EXIST notlar</string>
+    <string name="yeni">Yeni</string>
+    <string name="konus">Konus</string>
+    <string name="yeni_not">Yeni Not</string>
+    <string name="kaydet">Kaydet</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="tum_notlar">Tüm Notlar</string>
+</resources>
